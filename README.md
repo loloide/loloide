@@ -3,7 +3,7 @@ I am a junior developer from Villa la Angostura
 
 Currently working on my personal website using p5js, what could i be breweing with processing this time around??
 
-Studying UNRN - Computing Engineering
+Studying in the UNRN - Computing Engineering
 
 ![Badge](https://bit.ly/icom-badge)
 
