@@ -38,7 +38,3 @@ Abid fan of the Souce Engine, P5js and Linux!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loloide&layout=donut&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loloide&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/an1cka/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-de-la-cruz-a297222b9/)
