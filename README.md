@@ -5,7 +5,7 @@ Studying in the UNRN - Computing Engineering
 
 ![Badge](https://bit.ly/icom-badge)
 
-Abid fan of the Souce Engine, P5js and Linux!!
+Avid fan of the Souce Engine, P5js and Linux!!
 
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
