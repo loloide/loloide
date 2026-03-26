@@ -18,6 +18,3 @@ Avid fan of the Souce Engine, P5js and Linux!!
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loloide&layout=donut&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loloide&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
